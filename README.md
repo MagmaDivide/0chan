@@ -50,5 +50,6 @@
 21. `cd frontend && npm install && npm run build` (Внимание нужно 1 гигабайт озу и больше)
 22. `docker-compose build`
 23. `docker-compose up`
+24. Если сайт заработал то авторизируемся под логином `epicfailguy` и паролем `123123123` ну и собсно меняем пароль
 * Гавнельч гатов
 >P.S Мануал не проверялся (Ошибки и предложения скидываем сюда [t.me/dividedbymagma](https://t.me/dividedbymagma))
