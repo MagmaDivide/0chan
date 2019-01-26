@@ -51,3 +51,4 @@
 22. `docker-compose build`
 23. `docker-compose up`
 * Гавнельч гатов
+>P.S Мануал не проверялся (Ошибки и предложения скидываем сюда [t.me/dividedbymagma](https://t.me/dividedbymagma))
