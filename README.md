@@ -44,7 +44,7 @@
 15. `sudo chmod +x /usr/bin/docker-compose`
 16. `git clone https://github.com/MagmaDivide/0chan`
 17. `cd 0chan`
-18. `sudo mkdir /var/storage/ && sudo touch /var/storage/id && sudo echo "s01" > /var/storage/id`
+18. `sudo mkdir /var/storage/ && sudo touch /var/storage/id && echo "s01" | sudo tee /var/storage/id`
 19. `cp .env-dist .env`
 20. Редактируем .env (Меняем только SALT на рандомную строку)
 21. `cd frontend && npm install && npm run build` (Внимание нужно 1 гигабайт озу и больше)
