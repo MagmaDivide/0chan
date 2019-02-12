@@ -25,8 +25,6 @@ import ModeratorFeed from '../components/mod/Feed.vue'
 import ModeratorBans from '../components/mod/Bans.vue'
 import ModeratorBoardStats from '../components/mod/BoardStats.vue'
 
-import Loop from '../components/Loop.vue'
-
 import Session from '../services/Session'
 import BusEvents from '../app/BusEvents'
 
