@@ -217,6 +217,7 @@
 
                                 case 'gimme_image':
                                     this.$bus.emit(BusEvents.ALERT_ERROR, 'Налепите пикчу...') ;
+                                    break;
                             }
                         } else {
                             throw new Error(result);
