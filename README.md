@@ -35,7 +35,7 @@
 7. `sudo apt-get update`
 8. `sudo apt-get install -y docker-engine`
 9. `sudo service docker status` (Если там горит зелёная хуета то продолжаем)
-10. `sudo usermod -aG docker nullchan` (Выдаем права на использование докера нашему пользователю)(Желательно после этого перезагрузить сервер)
+10. `sudo usermod -aG docker nullchan`
 11. `curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh`
 12. `sudo chmod +x nodesource_setup.sh`
 13. `sudo sh nodesource_setup.sh` (Ждем пока установитса нодежс)
